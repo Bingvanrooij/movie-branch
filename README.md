@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="Japan.png">
-    <img src="img/japan.png" alt="Logo" width="80" height="80">
+    <img src="my-favorite-movie/img/japan.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">My Favorite Movie</h3>
